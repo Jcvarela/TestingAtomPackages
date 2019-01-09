@@ -1,7 +1,7 @@
 {
   "name": "jorge2-word-count",
   "main": "./lib/jorge-word-count",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple test program that counts the words in a page",
   "keywords": [
   ],
